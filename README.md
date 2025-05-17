@@ -24,8 +24,8 @@ A high-performance Django REST Framework API for product search with advanced fe
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/MostafaRabia/product-search-api
+cd product-search-api
 ```
 
 2. Create and activate a virtual environment:
