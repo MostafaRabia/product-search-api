@@ -1,0 +1,20 @@
+# Core Dependencies
+Django==4.2.7
+djangorestframework==3.14.0
+psycopg2-binary==2.9.9
+django-filter==23.3
+python-dotenv==1.0.0
+django-cors-headers==4.3.0
+
+# Development Dependencies
+django-debug-toolbar==4.2.0
+Faker==19.13.0
+flake8==6.1.0
+pytest==7.4.3
+pytest-django==4.7.0
+coverage==7.3.2
+
+# Production Dependencies
+gunicorn==21.2.0
+whitenoise==6.6.0
+django-storages==1.14.2 
